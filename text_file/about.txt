@@ -1,0 +1,1 @@
+This document is fetched from about.txt file using promise

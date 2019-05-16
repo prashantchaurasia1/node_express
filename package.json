@@ -1,0 +1,30 @@
+{
+  "name": "simple_expres_server",
+  "version": "1.0.0",
+  "description": "Simple Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantchaurasia1/node_express.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "http",
+    "create",
+    "server"
+  ],
+  "author": "Prashant Chaurasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantchaurasia1/node_express/issues"
+  },
+  "homepage": "https://github.com/prashantchaurasia1/node_express#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  }
+}
